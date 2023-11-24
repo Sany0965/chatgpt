@@ -6,7 +6,7 @@ import openai
 TOKEN = 'Ваштокен'
 
 # Ваш API-ключ от OpenAI
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = 'ключOpenAI'
 openai.api_key = OPENAI_API_KEY
 
 # Словарь для хранения данных о профиле пользователя
