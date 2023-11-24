@@ -3,7 +3,7 @@ from telebot import types
 import openai
 
 # Ваш токен от BotFather
-TOKEN = '6660681374:AAFQuXZ9LJpFsj3lB4Fnh9COZ3kcv5YdITk'
+TOKEN = 'Ваштокен'
 
 # Ваш API-ключ от OpenAI
 OPENAI_API_KEY = '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'
